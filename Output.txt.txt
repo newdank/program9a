@@ -1,0 +1,13 @@
+1) From the code we have submitted, The output will be :-
+
+ The duplicate elements in the array are :
+	2
+	4
+	6
+
+  
+
+
+2)      A total of 11 operations takes place.
+
+THANK YOU
